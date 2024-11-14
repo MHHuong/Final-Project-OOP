@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Library_Management_System.Person">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAQAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_Management_System.ContactInformation">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAEIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ContactInformation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_Management_System.Librarian">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAgAAACEAQAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Librarian.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_Management_System.Book">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAEAAgAABAIAQAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_Management_System.LibarySystem">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAIAAAAAAQAgAAACEAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Libary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library_Management_System.Member">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAEEAAAABAAQAgAAAAAAQAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Member.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
